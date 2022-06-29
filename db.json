@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "bookname": "karan",
+      "bookId": "laysujd",
+      "studentId": "d",
+      "id": 5
+    },
+    {
+      "bookname": "",
+      "bookId": "",
+      "studentId": "",
+      "id": 6
+    },
+    {
+      "bookname": "",
+      "bookId": "",
+      "studentId": "",
+      "id": 7
+    },
+    {
+      "bookname": "",
+      "bookId": "",
+      "studentId": "",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
