@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http'
   providedIn: 'root'
 })
 export class BookdataService {
-  url = "http://localhost:3000/posts";
+  url = "https://github.com/rmc2580/bookstoremanagement/blob/master/db.json";
 
   constructor(private http: HttpClient) { }
   users() {
